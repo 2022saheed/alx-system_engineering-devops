@@ -12,3 +12,4 @@ Task 1. a script that prints hello user, where user is the current Linux user
 Task 10. a script that displays the result of BREATH to the power LOVE
 
 Task 11. a script that converts a number from base 2 to base 10
+Task 11. a script that converts a number from base 2 to base 10
